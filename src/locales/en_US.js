@@ -6,6 +6,7 @@ en_US.strings = {
   chooseFile: 'Choose a file',
   youHaveChosen: 'You have chosen: %{fileName}',
   orDragDrop: 'or drag it here',
+  additionalText: '(supported files formats: .xls, .xlsx, .csv)',
   filesChosen: {
     0: '%{smart_count} file selected',
     1: '%{smart_count} files selected'
